@@ -17,6 +17,8 @@
             </div>
             <div class="card-body">
               <a href="input-jamasuk.php" class="btn btn-md btn-success" style="margin-bottom: 10px">TAMBAH DATA</a>
+              <a href="logout.php" class="btn btn-md btn-success" style="margin-bottom: 10px">LOGOUT</a>
+              
               <table class="table table-bordered" id="myTable">
                 <thead>
                   <tr>
